@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodePathHelloWorld</string>
+    <string name="Ali_Intro">Hello World! My name is Ali I like android development and video games</string>
+    <string name="say_hello">SAY HELLO!</string>
+</resources>
